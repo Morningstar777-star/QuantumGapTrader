@@ -1,0 +1,23 @@
+# Python Artifacts
+
+**pycache**/ \*.pyc \*.pyo \*.pyd .Python env/ venv/ \*.egg-info/
+
+# Data Files
+
+data/ \*.csv
+
+# Output Artifacts
+
+\*.png stock_performance.csv profile.prof
+
+# IDE Configurations
+
+.vscode/ .idea/ \*.swp \*\~
+
+# Operating System Files
+
+.DS_Store Thumbs.db
+
+# Jupyter Notebooks
+
+.ipynb_checkpoints/
